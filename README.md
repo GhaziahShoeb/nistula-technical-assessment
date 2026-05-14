@@ -1,5 +1,5 @@
 # Nistula Guest Message Handler
-### Part 1 — Technical Assessment | Summer Internship 2026
+### Part 1 — Technical Assessment | 
 
 ---
 
